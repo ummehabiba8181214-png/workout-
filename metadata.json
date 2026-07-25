@@ -1,0 +1,7 @@
+{
+  "name": "Workout",
+  "description": " 6-Month Exercise Tracker & Recovery Companion",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+d
